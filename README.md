@@ -1,6 +1,4 @@
-Claro, a continuación te presento un test de 20 preguntas con 4 posibles respuestas, basado en los ejemplos presentados en el documento adjunto.
 
----
 
 ### Pregunta 1
 **Ejemplo 1: ¿Cuál es la fórmula para calcular el coeficiente de fiabilidad test-retest?**
@@ -279,6 +277,3 @@ $\( 1 - r_{XX'} = 0.16 \)$
 $\( r_{XX'} = 0.84 \)$  
 **Respuesta correcta: C**
 
----
-
-Espero que este test basado en los ejemplos del documento sea de tu agrado. Si necesitas más información o tienes alguna otra solicitud, no dudes en decirlo.
